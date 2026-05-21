@@ -21,7 +21,7 @@ Update the table (today you need to fill at least the first two columns)
 | Laskowski Wojciech | [wlaskowski](https://github.com/wlaskowski) | [ProFACT](https://github.com/wlaskowski/ProFACT) | Protein FASTA Analysis and Comparison Tool | Moryl Wojciech, Winczewska Karolina |
 | Tasinkiewicz Anastazja | [anastazjat08](https://github.com/anastazjat08) | TBA | TBA | Prudło Agnieszka, Niemczak Paulina |
 | Mateusz Wawrzyniak | [m-wawrzyniak](https://github.com/m-wawrzyniak) | [NRNaudit](https://github.com/m-wawrzyniak/nrnaudit) | Neuron Audit | Dominik Suwała |
-| Janowiak Aleksander | [ajanowiak](https://github.com/ajanowiak) | [TBA]() |  To Be Announced | Giezgała Jakub, Kupidura Piotr |
+| Janowiak Aleksander | [ajanowiak](https://github.com/ajanowiak) | [DrugKIT](https://github.com/kugi8412/DrugKit) | Deep Docking Drug Discovery Kit | Giezgała Jakub, Kupidura Piotr |
 | Niemczak Paulina | [paulinaniemczak](https://github.com/paulinaniemczak) | [TBA] |  To Be Announced |  |
 | Norbert Szala | [norbertszala](https://github.com/NorbertSzala) | [tAIpipe](https://github.com/NorbertSzala/tAIpipe) | tAIpipe | Max Stróżyk |
 | Max Stróżyk | [maxi7524](https://github.com/maxi7524)| [tAIpipe](https://github.com/NorbertSzala/tAIpipe) | tAIpipe | Norbert Szala |
