@@ -17,17 +17,19 @@ Update the table (today you need to fill at least the first two columns)
 | Szczerbinska Maria | [nicolas-bourbaki03](https://github.com/nicolas-bourbaki03) | [PCRpal](https://github.com/nicolas-bourbaki03/PCRpal) | PCR Primer Analysis and Validation Tool | Dubinska Agata, Makowska Katarzyna |
 | Prudło Agnieszka | [agap03](https://github.com/agap03) | [TBA]() |  To Be Announced | Tasinkiewicz Anastazja, Niemczak Paulina |
 | Moryl Wojciech | [wojciech-moryl](https://github.com/Fair0n) | [ProFACT](https://github.com/wlaskowski/ProFACT) | Protein FASTA analysis and comparison tool | Wojciech Laskowski, Karolina Winczewska |
+| Prudło Agnieszka | [agap03](https://github.com/agap03) | [MutAAP-IC](https://github.com/anastazjat08/mutaap-ic) |  Mutational Amino Acid Position - Impact Check | Tasinkiewicz Anastazja, Niemczak Paulina |
 | Dominik Suwała | [dsuwala](https://github.com/dsuwala) | [NRNaudit](https://github.com/m-wawrzyniak/nrnaudit) | Neuron Audit | Mateusz Wawrzyniak |
-| Laskowski Wojciech | [wlaskowski](https://github.com/wlaskowski) | TBA | TBA | Moryl Wojciech, Winczewska Karolina |
+| Laskowski Wojciech | [wlaskowski](https://github.com/wlaskowski) | [ProFACT](https://github.com/wlaskowski/ProFACT) | Protein FASTA Analysis and Comparison Tool | Moryl Wojciech, Winczewska Karolina |
 | Tasinkiewicz Anastazja | [anastazjat08](https://github.com/anastazjat08) | TBA | TBA | Prudło Agnieszka, Niemczak Paulina |
 | Dominik Suwała | [dsuwala](https://github.com/dsuwala) | TBA | TBA | TBA |
 | Mateusz Wawrzyniak | [m-wawrzyniak](https://github.com/m-wawrzyniak) | [NRNaudit](https://github.com/m-wawrzyniak/nrnaudit) | Neuron Audit | Dominik Suwała |
 | Janowiak Aleksander | [ajanowiak](https://github.com/ajanowiak) | [TBA]() |  To Be Announced | Giezgała Jakub, Kupidura Piotr |
 | Niemczak Paulina | [paulinaniemczak](https://github.com/paulinaniemczak) | [TBA] |  To Be Announced |  |
-| Norbert Szala | [norbertszala](https://github.com/NorbertSzala) | [tAIpipe](https://github.com/NorbertSzala/tAIpipe) | tAIpipe | Maksymilian Stróżyk |
+| Norbert Szala | [norbertszala](https://github.com/NorbertSzala) | [tAIpipe](https://github.com/NorbertSzala/tAIpipe) | tAIpipe | Max Stróżyk |
+| Max Stróżyk | [maxi7524](https://github.com/maxi7524)| [tAIpipe](https://github.com/NorbertSzala/tAIpipe) | tAIpipe | Norbert Szala |
 | Giezgała Jakub | [kugi8412](https://github.com/kugi8412) | [DrugKIT](https://github.com/kugi8412/DrugKit) | Deep Docking Drug Discovery Kit | Kupidura Piotr, Aleksander Janowiak | 
 | Kupidura Piotr | [PiotrKupidura](https://github.com/PiotrKupidura) | [DrugKIT](https://github.com/kugi8412/DrugKit) | Deep Docking Drug Discovery Kit | Giezgała Jakub, Aleksander Janowiak |
-| Winczewska Karolina | [KarolinaWinczewska](https://github.com/KaWinczewska) | TBA | TBA | Moryl Wojciech, Laskowski Wojciech|
+| Winczewska Karolina | [KarolinaWinczewska](https://github.com/KaWinczewska) | [ProFACT](https://github.com/wlaskowski/ProFACT) | Protein FASTA analysis and comparison tool | Moryl Wojciech, Laskowski Wojciech|
 
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory, where you will describe the subject, 
