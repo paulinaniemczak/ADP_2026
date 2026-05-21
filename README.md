@@ -25,7 +25,7 @@ Update the table (today you need to fill at least the first two columns)
 | Janowiak Aleksander | [ajanowiak](https://github.com/ajanowiak) | [TBA]() |  To Be Announced | Giezgała Jakub, Kupidura Piotr |
 | Niemczak Paulina | [paulinaniemczak](https://github.com/paulinaniemczak) | [TBA] |  To Be Announced |  |
 | Norbert Szala | [norbertszala](https://github.com/NorbertSzala) | [tAIpipe](https://github.com/NorbertSzala/tAIpipe) | tAIpipe | Max Stróżyk |
-| Max Stróżyk | [maxi7524]([https://github.com/NorbertSzala](https://github.com/maxi7524)) | [tAIpipe](https://github.com/NorbertSzala/tAIpipe) | tAIpipe | Norbert Szala |
+| Max Stróżyk | [maxi7524](https://github.com/maxi7524)| [tAIpipe](https://github.com/NorbertSzala/tAIpipe) | tAIpipe | Norbert Szala |
 | Giezgała Jakub | [kugi8412](https://github.com/kugi8412) | [DrugKIT](https://github.com/kugi8412/DrugKit) | Deep Docking Drug Discovery Kit | Kupidura Piotr, Aleksander Janowiak | 
 | Kupidura Piotr | [PiotrKupidura](https://github.com/PiotrKupidura) | [DrugKIT](https://github.com/kugi8412/DrugKit) | Deep Docking Drug Discovery Kit | Giezgała Jakub, Aleksander Janowiak |
 | Winczewska Karolina | [KarolinaWinczewska](https://github.com/KaWinczewska) | TBA | TBA | Moryl Wojciech, Laskowski Wojciech|
