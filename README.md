@@ -16,7 +16,7 @@ Update the table (today you need to fill at least the first two columns)
 | Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | [TBA](https://github.com/lukasz-kozlowski/ADP_2026/blob/main/project/TBA/README.md) |  To Be Announced | all students |
 | Szczerbinska Maria | [nicolas-bourbaki03](https://github.com/nicolas-bourbaki03) | [PCRpal](https://github.com/nicolas-bourbaki03/PCRpal) | PCR Primer Analysis and Validation Tool | Dubinska Agata, Makowska Katarzyna |
 | Prudło Agnieszka | [agap03](https://github.com/agap03) | [TBA]() |  To Be Announced | Tasinkiewicz Anastazja, Niemczak Paulina |
-| Moryl Wojciech | [wojciech-moryl](https://github.com/Fair0n) | TBD | TBD | TBD |
+| Moryl Wojciech | [wojciech-moryl](https://github.com/Fair0n) | [ProFACT](https://github.com/wlaskowski/ProFACT) | Protein FASTA analysis and comparison tool | Wojciech Laskowski, Karolina Winczewska |
 | Dominik Suwała | [dsuwala](https://github.com/dsuwala) | [NRNaudit](https://github.com/m-wawrzyniak/nrnaudit) | Neuron Audit | Mateusz Wawrzyniak |
 | Laskowski Wojciech | [wlaskowski](https://github.com/wlaskowski) | TBA | TBA | Moryl Wojciech, Winczewska Karolina |
 | Tasinkiewicz Anastazja | [anastazjat08](https://github.com/anastazjat08) | TBA | TBA | Prudło Agnieszka, Niemczak Paulina |
