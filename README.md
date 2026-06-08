@@ -22,7 +22,7 @@ Update the table (today you need to fill at least the first two columns)
 | Tasinkiewicz Anastazja | [anastazjat08](https://github.com/anastazjat08) | TBA | TBA | Prudło Agnieszka, Niemczak Paulina |
 | Mateusz Wawrzyniak | [m-wawrzyniak](https://github.com/m-wawrzyniak) | [NRNaudit](https://github.com/m-wawrzyniak/nrnaudit) | Neuron Audit | Dominik Suwała |
 | Janowiak Aleksander | [ajanowiak](https://github.com/ajanowiak) | [DrugKIT](https://github.com/kugi8412/DrugKit) | Deep Docking Drug Discovery Kit | Giezgała Jakub, Kupidura Piotr |
-| Niemczak Paulina | [paulinaniemczak](https://github.com/paulinaniemczak) | [TBA] |  To Be Announced |  |
+| Niemczak Paulina | [paulinaniemczak](https://github.com/paulinaniemczak) | Mutational Amino Acid Position - Impact Check |  Prudło Agnieszka, Tasinkiewicz Anastazja  |
 | Norbert Szala | [norbertszala](https://github.com/NorbertSzala) | [tAIpipe](https://github.com/NorbertSzala/tAIpipe) | tAIpipe | Max Stróżyk |
 | Max Stróżyk | [maxi7524](https://github.com/maxi7524)| [tAIpipe](https://github.com/NorbertSzala/tAIpipe) | tAIpipe | Norbert Szala |
 | Giezgała Jakub | [kugi8412](https://github.com/kugi8412) | [DrugKIT](https://github.com/kugi8412/DrugKit) | Deep Docking Drug Discovery Kit | Kupidura Piotr, Aleksander Janowiak | 
